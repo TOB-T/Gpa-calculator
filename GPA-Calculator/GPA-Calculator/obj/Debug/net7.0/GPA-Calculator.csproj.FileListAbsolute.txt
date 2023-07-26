@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.AssemblyInfo.cs
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\bin\Debug\net7.0\GPA-Calculator.exe
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\bin\Debug\net7.0\GPA-Calculator.deps.json
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\bin\Debug\net7.0\GPA-Calculator.runtimeconfig.json
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\bin\Debug\net7.0\GPA-Calculator.dll
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\bin\Debug\net7.0\GPA-Calculator.pdb
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.dll
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\refint\GPA-Calculator.dll
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.pdb
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\GPA-Calculator.genruntimeconfig.cache
+C:\Users\HP\source\repos\GPA-Calculator\GPA-Calculator\obj\Debug\net7.0\ref\GPA-Calculator.dll
